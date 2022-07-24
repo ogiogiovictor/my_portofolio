@@ -1,31 +1,28 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-Porfolio Design with Boostrap
+My Resume and Portfolio
 
 # About Project
-The project is a portfolio project about a Software developer and is products, Its built with latest 
-CSS framework Boostrap 5.0 
+The project is a portfolio project about some of the projects i have builts, just to give you and overview
+of the the languages and framework i use.
 
 # Built With 
 - HTML, CSS
-- Boostrap Framework 5.0
-- Linters: Webhint & Stylelint
-- Formspree
 
 # Getting Started
 To get a local copy up and running follw these simple example steps:
 
 ```
     - Select the link with the code on the https code table in the repo
-    - Open a Terminal and write the command: git clone https://github.com/ogiogiovictor/portfolio_website.git
+    - Open a Terminal and write the command: git clone https://github.com/ogiogiovictor/my_portofolio.git
     - $ cd into the directory
     - $ Open the index.html file in a browser.
 ```
 
 # Website URL - Github Pages
 The Webpage is now deployed using github pages. See url link below:
-# [live demo]( https://ogiogiovictor.github.io/microverse_porfolio_project/)
+# [live demo]( README.md/)
 
 
 # Authors
