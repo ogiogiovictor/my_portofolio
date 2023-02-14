@@ -115,16 +115,9 @@ Clone this repository to your desired folder:
 - Clone the repository from  https://github.com/ogiogiovictor/my_portofolio
 -  extract and cd into the repository
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
 ## Authors
 👤 **Ogiogio Victor**
 
@@ -161,7 +154,6 @@ If you like this project...
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
