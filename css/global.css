@@ -167,7 +167,7 @@ h3.main-heading::after {
 	position: absolute;
 	left: 0;
 	bottom: -1px;
-	background:#cf455c;
+	background:#2A0C71;
 }
 
 /*-------------------------------------------------------*/
@@ -222,14 +222,14 @@ header {
     font-size: 18px;
     display: block;
     padding: 1px 8px;
-    background-color: #cf455c;
+    background-color: #2A0C71;
     color: #FFF;
 }
 .caroufredsel_wrapper {
     width: 600px!important;
 }
 .socialicons li a:hover {
-	color:#cf455c;
+	color:#2A0C71;
 }
 
 .social-icons li:last-child {
@@ -292,7 +292,7 @@ header {
 }
 
 .tabs li.active a {
-	color:#cf455c;
+	color:#2A1165;
      
 }
 
